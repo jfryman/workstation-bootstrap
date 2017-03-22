@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+sudo vim /etc/puppetlabs/code/data/common.yaml
+run-puppet

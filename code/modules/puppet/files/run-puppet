@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+sudo puppet apply /etc/puppetlabs/puppet/manifests/site.pp --verbose  $@

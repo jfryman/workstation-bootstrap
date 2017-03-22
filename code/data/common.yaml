@@ -1,0 +1,9 @@
+---
+classes:
+  - "::puppet"
+  - "::basenode"
+  - "::laptop"
+packages:
+  - tmux
+  - screen
+  - git
