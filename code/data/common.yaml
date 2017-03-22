@@ -7,7 +7,7 @@ classes:
 packages:
   # Arch
   - base-devel
-  - cower
+  - expac
 
   # CLI
   - tmux
