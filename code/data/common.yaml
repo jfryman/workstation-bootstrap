@@ -21,3 +21,6 @@ packages:
   # i3
   - dmenu
   - i3-wm
+
+aur_packages:
+  - google-chrome
