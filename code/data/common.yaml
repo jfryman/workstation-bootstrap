@@ -4,8 +4,15 @@ classes:
   - "::basenode"
   - "::laptop"
 packages:
+  # CLI
   - tmux
   - screen
   - git
   - vim
+
+  # Xorg
   - terminology
+
+  # i3
+  - dmenu
+  - i3-wm
