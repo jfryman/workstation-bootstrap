@@ -3,7 +3,11 @@ classes:
   - "::puppet"
   - "::basenode"
   - "::laptop"
+  - "::arch"
 packages:
+  # Arch
+  - base-devel
+
   # CLI
   - tmux
   - screen
