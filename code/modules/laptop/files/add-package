@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
 
+cd /etc/puppetlabs
 sudo vim /etc/puppetlabs/code/data/common.yaml
 run-puppet
+
+sudo git commit -am "Updating Package List - `date`"

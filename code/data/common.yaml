@@ -7,3 +7,4 @@ packages:
   - tmux
   - screen
   - git
+  - vim
