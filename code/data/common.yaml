@@ -18,6 +18,8 @@ packages:
   
   ## System
   - openssh
+  - zsh
+  - zsh-completion
 
   ## Fonts
   - adobe-source-code-pro-fonts
