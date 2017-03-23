@@ -95,3 +95,6 @@ aur_packages:
   - bluejeans
   - hipchat
 
+  ## Programming
+  - visual-studio-code
+
