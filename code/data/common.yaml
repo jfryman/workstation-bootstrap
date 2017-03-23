@@ -8,6 +8,10 @@ packages:
   # Arch
   - base-devel
   - expac
+  
+  ## System
+  - openssh
+
   ## Fonts
   - adobe-source-code-pro-fonts
   - adobe-source-sans-pro-fonts
