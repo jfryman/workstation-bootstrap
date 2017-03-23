@@ -49,6 +49,7 @@ packages:
   ## QT
   - qt5-base
   - qt4
+  - qt5ct
 
   ## i3
   - dmenu
