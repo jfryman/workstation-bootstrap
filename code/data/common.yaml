@@ -39,7 +39,14 @@ packages:
   # Xorg
   - terminology
 
-  # i3
+  ## gtk
+  - lxappearance
+  - gtk-chtheme
+
+  ## QT
+  - qt4-qtconfig
+
+  ## i3
   - dmenu
   - i3-wm
 
