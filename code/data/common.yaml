@@ -102,3 +102,25 @@ aur_packages:
   ## Programming
   - visual-studio-code
 
+dotfiles:
+  # Files
+  - .aliases
+  - .aliases.FryTop
+  - .env
+  - .env.FryTop
+  - .git
+  - .gnupg
+  - .profile
+  - .tmux.conf
+  - .vimrc
+  - .z
+  - .zlogin
+  - .zlogout
+  - .zpreztorc
+  - .zprofile
+  - .zshenv
+  - .zshrc
+
+  # Directories
+  - bin
+  - .spacemacs.d
