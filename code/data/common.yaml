@@ -35,6 +35,7 @@ packages:
   - screen
   - git
   - vim
+  - emacs
 
   # Xorg
   - terminology
