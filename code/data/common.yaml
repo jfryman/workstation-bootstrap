@@ -8,7 +8,27 @@ packages:
   # Arch
   - base-devel
   - expac
-  - font
+  ## Fonts
+  - adobe-source-code-pro-fonts
+  - adobe-source-sans-pro-fonts
+  - adobe-source-serif-pro-fonts
+  - ttf-anonymous-pro
+  - ttf-croscore
+  - ttf-dejavu
+  - ttf-fira-mono
+  - ttf-freefont
+  - ttf-hack
+  - ttf-liberation
+  - ttf-roboto
+  - ttf-gentium
+  - ttf-linux-libertine
+  - ttf-ubuntu-font-family
+  - dina-font
+  - artwiz-fonts
+  - profont
+  - tamsyn-font
+  - terminus-font
+  - bdf-unifont
 
   # CLI
   - tmux
@@ -24,4 +44,20 @@ packages:
   - i3-wm
 
 aur_packages:
+  # Fonts
+  - ttf-ms-fonts
+  - ttf-google-fonts-git
+  - ttf-vista-fonts
+  - ttf-envy-code-r
+  - ttf-fantasque-sans
+  - ttf-inconsolata-g
+  - ttf-monaco
+  - ttf-monofur
+  - ttf-tahoma
+  - gohufont
+  - proggyfonts
+  - bdf-tewi-git
+
+  # Internet
   - google-chrome
+
