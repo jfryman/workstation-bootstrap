@@ -73,4 +73,5 @@ aur_packages:
 
   # Internet
   - google-chrome
+  - bluejeans
 
