@@ -1,9 +1,16 @@
 ---
 classes:
+  # Common
   - "::puppet"
   - "::basenode"
   - "::laptop"
+
+  ## OS
   - "::arch"
+
+  ## Personal
+  - "::arch::yubikey"
+
 packages:
   # Arch
   - base-devel
