@@ -108,7 +108,7 @@ dotfiles:
   - .aliases.FryTop
   - .env
   - .env.FryTop
-  - .git
+  - .gitconfig
   - .gnupg
   - .profile
   - .tmux.conf
