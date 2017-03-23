@@ -72,6 +72,8 @@ packages:
   - i3-wm
 
   ## Security
+  - gnupg
+  - pinentry
   - libu2f-host
 
 aur_packages:
