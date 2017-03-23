@@ -50,6 +50,7 @@ packages:
 
   # Xorg
   - terminology
+  - xf86-input-libinput
 
   ## gtk
   - gtk3
