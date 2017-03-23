@@ -46,7 +46,6 @@ packages:
 aur_packages:
   # Fonts
   - ttf-ms-fonts
-  - ttf-google-fonts-git
   - ttf-vista-fonts
   - ttf-envy-code-r
   - ttf-fantasque-sans
