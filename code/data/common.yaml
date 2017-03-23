@@ -66,6 +66,9 @@ packages:
   - dmenu
   - i3-wm
 
+  ## Security
+  - libu2f-host
+
 aur_packages:
   ## Fonts
   - ttf-ms-fonts
