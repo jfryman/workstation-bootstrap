@@ -21,6 +21,7 @@ packages:
   - zsh
   - zsh-completions
   - zip
+  - unzip
 
   ## Fonts
   - adobe-source-code-pro-fonts
