@@ -19,7 +19,8 @@ packages:
   ## System
   - openssh
   - zsh
-  - zsh-completion
+  - zsh-completions
+  - zip
 
   ## Fonts
   - adobe-source-code-pro-fonts
