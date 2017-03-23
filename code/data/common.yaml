@@ -40,11 +40,14 @@ packages:
   - terminology
 
   ## gtk
+  - gtk3
+  - gtk2
   - lxappearance
   - gtk-chtheme
 
   ## QT
-  - qt4-qtconfig
+  - qt5-base
+  - qt4
 
   ## i3
   - dmenu
