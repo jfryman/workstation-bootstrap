@@ -100,7 +100,6 @@ aur_packages:
   - hipchat
 
   ## Programming
-  - hub
   - visual-studio-code
 
 dotfiles:
