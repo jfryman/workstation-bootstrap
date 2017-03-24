@@ -24,6 +24,10 @@ packages:
   - zip
   - unzip
 
+  # Multimedia
+  - alsa-utils
+  - alsa-plugins
+
   ## Fonts
   - adobe-source-code-pro-fonts
   - adobe-source-sans-pro-fonts
