@@ -14,6 +14,7 @@ class arch::aur {
       environment => [
         'HOME=/home/jfryman',
       ],
+      timeout => 0,
       require => Class['::arch::pacaur'],
       unless  => "pacman -Q $package",
     }

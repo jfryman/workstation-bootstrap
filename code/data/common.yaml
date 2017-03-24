@@ -13,7 +13,28 @@ classes:
 
 packages:
   # Arch
-  - base-devel
+  - automake
+  - bison
+  - fakeroot
+  - file
+  - findutils
+  - flex
+  - gawk
+  - gettext
+  - grep
+  - groff
+  - gzip
+  - libtool
+  - m4
+  - make
+  - pacman
+  - patch
+  - pkg-config
+  - sed
+  - sudo
+  - texinfo
+  - util-linux
+  - which
   - expac
   - gcc-multilib
   
@@ -109,14 +130,13 @@ packages:
 
   # Gaming
   - steam
-  - lib32-libgl
   - gnu-free-fonts
   - glu
   - lib32-glu
   - lib32-libxmu
   - lib32-libtheora
   - lib32-libjpeg6-turbo
-  - lib32-libttf4
+  - lib32-libtiff4
   - lib32-libpng12
   - lib32-libcurl-compat
   - lib32-libcurl-gnutls
