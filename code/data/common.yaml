@@ -27,6 +27,7 @@ packages:
   ## Bluetooth
   - bluez
   - bluez-utils
+  - blueberry
 
   # Multimedia
   - alsa-utils
