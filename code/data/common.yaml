@@ -47,6 +47,8 @@ packages:
   - bdf-unifont
 
   # Office
+  - gimp
+  - poppler-glib
   - libreoffice-fresh
   - libreoffice-extension-texmaths
   - libreoffice-extension-writer2latex
