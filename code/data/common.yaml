@@ -115,6 +115,7 @@ packages:
   - xterm
   - xf86-input-libinput
   - xorg-xwininfo
+  - nitrogen
 
   ## gtk
   - gtk3
