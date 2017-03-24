@@ -24,6 +24,10 @@ packages:
   - zip
   - unzip
 
+  ## Bluetooth
+  - bluez
+  - bluez-utils
+
   # Multimedia
   - alsa-utils
   - alsa-plugins
