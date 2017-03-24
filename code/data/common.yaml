@@ -31,7 +31,10 @@ packages:
 
   # Multimedia
   - alsa-utils
+  - alsa-lib
   - alsa-plugins
+  - pulseaudio-alsa
+  - lib32-libpulse
 
   ## Fonts
   - adobe-source-code-pro-fonts
@@ -78,7 +81,9 @@ packages:
 
   # Xorg
   - terminology
+  - xterm
   - xf86-input-libinput
+  - xorg-xwininfo
 
   ## gtk
   - gtk3
@@ -90,6 +95,7 @@ packages:
   - qt5-base
   - qt4
   - qt5ct
+  - qt5-multimedia
 
   ## i3
   - dmenu
@@ -99,6 +105,51 @@ packages:
   - gnupg
   - pinentry
   - libu2f-host
+
+  # Gaming
+  - steam
+  - lib32-libgl
+  - gnu-free-fonts
+  - glu
+  - lib32-glu
+  - lib32-libxmu
+  - lib32-libtheora
+  - lib32-libjpeg6-turbo
+  - lib32-libttf4
+  - lib32-libpng12
+  - lib32-libcurl-compat
+  - lib32-libcurl-gnutls
+  - lib32-libidn
+  - lib32-openssl
+  - lib32-libcanberra
+  - lib32-flashplugin
+  - libpng12
+  - libtxc_dxtn
+  - lib32-sdl
+  - lib32-sdl_image
+  - lib32-sdl_ttf
+  - lib32-sdl2_mixer
+  - lib32-sdl2
+  - lib32-sdl2_image
+  - lib32-gtk2
+  - lib32-libvorbis
+  - lib32-openal
+  - lib32-nvidia-cg-toolkit
+  - lib32-glew1.10
+  - lib32-librtmp0
+  - lib32-libxft
+  - libxtst
+  - lib32-libxtst
+  - lib32-libcaca
+  - lib32-sqlite
+  - lib32-libxcursor
+  - lib32-libxrandr
+  - lib32-libstdc++5
+  - lib32-libgcrypt15
+  - lib32-libxxf86vm
+  - lib32-libdrm
+
+
 
 aur_packages:
   ## Network
@@ -136,6 +187,18 @@ aur_packages:
   ## Programming
   - jdk
   - visual-studio-code
+
+  ## Gaming
+  - lib32-freealut
+  - adobe-air-sdk
+  - lib32-libxaw
+  - lib32-jasper
+  - lib32-intel-tbb
+  - libudev0
+  - lib32-sfml
+  - java-commons-codec
+  - lib32-gstreamer0.10-base
+  - lib32-pangox-compat
 
 dotfiles:
   # Files
