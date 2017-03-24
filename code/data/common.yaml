@@ -119,6 +119,7 @@ packages:
   - gtk2
   - lxappearance
   - gtk-chtheme
+  - wxgtk
 
   ## QT
   - qt5-base
