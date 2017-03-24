@@ -54,6 +54,7 @@ packages:
   - zsh-completions
   - zip
   - unzip
+  - htop
 
   ## Bluetooth
   - bluez
