@@ -45,7 +45,7 @@ packages:
   - expac
   - gcc-multilib
   - fop
-  - unixobdc
+  - unixodbc
   
   ## System
   - openssh
