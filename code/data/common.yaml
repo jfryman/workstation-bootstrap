@@ -23,6 +23,12 @@ packages:
   - zip
   - unzip
 
+  ## Network
+  - networkmanager
+  - networkmanager-openvpn
+  - networkmanager-dispatcher-sshd
+  - nm-connection-editor
+
   ## Fonts
   - adobe-source-code-pro-fonts
   - adobe-source-sans-pro-fonts
@@ -77,6 +83,10 @@ packages:
   - libu2f-host
 
 aur_packages:
+  ## Network
+  - networkmanager-dispatcher-openvpn
+  - networkmanager-dispatcher-chrony
+
   ## Fonts
   - ttf-ms-fonts
   - ttf-vista-fonts
