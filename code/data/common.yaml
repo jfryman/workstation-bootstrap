@@ -18,16 +18,11 @@ packages:
   
   ## System
   - openssh
+  - openntpd
   - zsh
   - zsh-completions
   - zip
   - unzip
-
-  ## Network
-  - networkmanager
-  - networkmanager-openvpn
-  - networkmanager-dispatcher-sshd
-  - nm-connection-editor
 
   ## Fonts
   - adobe-source-code-pro-fonts
@@ -85,7 +80,6 @@ packages:
 aur_packages:
   ## Network
   - networkmanager-dispatcher-openvpn
-  - networkmanager-dispatcher-chrony
 
   ## Fonts
   - ttf-ms-fonts
@@ -125,7 +119,6 @@ dotfiles:
   - .profile
   - .tmux.conf
   - .vimrc
-  - .z
   - .zlogin
   - .zlogout
   - .zpreztorc
@@ -135,4 +128,5 @@ dotfiles:
 
   # Directories
   - bin
+  - .i3
   - .spacemacs.d
