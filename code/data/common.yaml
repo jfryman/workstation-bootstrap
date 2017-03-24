@@ -23,7 +23,6 @@ packages:
   - zsh-completions
   - zip
   - unzip
-  - 7z
 
   ## Bluetooth
   - bluez
