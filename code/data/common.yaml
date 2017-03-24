@@ -15,6 +15,7 @@ packages:
   # Arch
   - base-devel
   - expac
+  - gcc-multilib
   
   ## System
   - openssh
