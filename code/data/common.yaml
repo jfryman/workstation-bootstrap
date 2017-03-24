@@ -218,6 +218,7 @@ aur_packages:
   ## Programming
   - jdk
   - visual-studio-code
+  - hub-git
 
   ## Gaming
   - lib32-freealut
