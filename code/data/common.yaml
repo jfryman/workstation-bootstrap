@@ -204,7 +204,6 @@ aur_packages:
   - libreoffice-extension-languagetool
   - hsqldb2-java
 
-
   ## Programming
   - jdk
   - visual-studio-code
@@ -219,6 +218,9 @@ aur_packages:
   - lib32-sfml
   - java-commons-codec
   - lib32-pangox-compat
+  
+  # Media
+  - spotify
 
 dotfiles:
   # Files

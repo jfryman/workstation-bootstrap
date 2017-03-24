@@ -3,4 +3,5 @@ class basenode {
   include ::basenode::user
   include ::basenode::ohmyzsh
   include ::basenode::spacemacs
+  include ::basenode::asdf
 }
