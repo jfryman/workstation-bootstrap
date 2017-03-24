@@ -218,6 +218,7 @@ aur_packages:
   - libudev0
   - lib32-sfml
   - java-commons-codec
+  - gstreamer0.10-base
   - lib32-gstreamer0.10-base
   - lib32-pangox-compat
 
