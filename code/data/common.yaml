@@ -11,6 +11,13 @@ classes:
   ## Personal
   - "::arch::yubikey"
 
+asdf:
+  go:
+    repo: https://github.com/kennyp/asdf-golang.git
+    default: 1.8
+    versions:
+      - 1.8
+
 packages:
   # Arch
   - automake
