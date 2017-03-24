@@ -3,6 +3,6 @@ class basenode::spacemacs {
     ensure   => present,
     provider => git,
     source   => 'https://github.com/syl20bnr/spacemacs.git',
+    user     => 'jfryman',
   }
-  
 }

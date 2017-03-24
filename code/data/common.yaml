@@ -246,6 +246,7 @@ dotfiles:
   - .zprofile
   - .zshenv
   - .zshrc
+  - .tool-versions
 
   # Directories
   - bin
