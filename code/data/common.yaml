@@ -46,6 +46,18 @@ packages:
   - terminus-font
   - bdf-unifont
 
+  # Office
+  - libreoffice-fresh
+  - libreoffice-extension-texmaths
+  - libreoffice-extension-writer2latex
+  - hunspell
+  - hunspell-en
+  - hyphen
+  - hypthen-en
+  - libmythes
+  - mythes-en
+
+
   # CLI
   - tmux
   - screen
@@ -105,7 +117,13 @@ aur_packages:
   - bluejeans
   - hipchat
 
+  # Office
+  - libreoffice-extension-languagetool
+  - hsqldb2-java
+
+
   ## Programming
+  - jdk
   - visual-studio-code
 
 dotfiles:
