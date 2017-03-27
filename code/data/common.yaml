@@ -55,6 +55,7 @@ packages:
   - zip
   - unzip
   - htop
+  - nmap
 
   ## Bluetooth
   - bluez
