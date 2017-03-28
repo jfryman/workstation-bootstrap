@@ -56,7 +56,6 @@ packages:
   - unzip
   - htop
   - nmap
-  - avahi
 
   ## Bluetooth
   - bluez
