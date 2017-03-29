@@ -1,7 +1,7 @@
 class basenode {
-  include ::basenode::packages
-  include ::basenode::user
-  include ::basenode::ohmyzsh
-  include ::basenode::spacemacs
-  include ::basenode::asdf
+  require ::basenode::packages
+  require ::basenode::user
+  require ::basenode::ohmyzsh
+  require ::basenode::spacemacs
+  require ::basenode::asdf
 }

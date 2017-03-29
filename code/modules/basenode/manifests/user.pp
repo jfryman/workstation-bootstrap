@@ -2,7 +2,7 @@ class basenode::user{
   user { 'jfryman':
     ensure => present,
     shell  => '/usr/bin/zsh',
-    groups => ['jfryman','wheel', 'network', 'audio', 'bumblebee', 'lp'],
+    groups => ['jfryman','wheel', 'network', 'audio', 'bumblebee', 'lp', 'docker'],
   }
 
   group { 'jfryman':
