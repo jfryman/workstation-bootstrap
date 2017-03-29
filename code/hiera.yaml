@@ -4,5 +4,8 @@ defaults:
   datadir: /etc/puppetlabs/code/data
   data_hash: yaml_data
 hierarchy:
+  - name: Node Data
+    path: "nodes/%{hostname}.yaml"
+
   - name: Common data
     path: common.yaml

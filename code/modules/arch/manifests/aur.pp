@@ -1,5 +1,5 @@
 class arch::aur {
-  $_packages = lookup('aur_packages')
+  $_packages = lookup('aur_packages', {merge => 'unique'})
 
   $_packages.each |String $package| {
     exec { "Install $package":

@@ -1,0 +1,8 @@
+---
+classes:
+  - "::macbookpro"
+
+aur_packages:
+  - broadcom-wl-dkms
+  - mbpfan-git
+  - xf86-input-mtrack
