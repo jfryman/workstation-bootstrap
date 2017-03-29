@@ -216,6 +216,9 @@ aur_packages:
   - visual-studio-code
   - hub-git
 
+  ## i3
+  - rofi-git
+
   ## Gaming
   - lib32-freealut
   - adobe-air-sdk
