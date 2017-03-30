@@ -3,6 +3,12 @@ classes:
   - "::macbookpro"
 
 aur_packages:
+  # Comms
+  - scudcloud
+
+  # Network
   - broadcom-wl-dkms
+
+  # MacBook Pro 10,1
   - mbpfan-git
   - xf86-input-mtrack

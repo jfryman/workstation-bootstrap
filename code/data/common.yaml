@@ -52,6 +52,8 @@ packages:
   - unzip
   - htop
 
+
+
   ## Bluetooth
   - bluez
   - bluez-utils
@@ -107,6 +109,8 @@ packages:
   - emacs
 
   # Xorg
+  - i3
+  - i3blocks
   - terminology
   - xterm
   - xf86-input-libinput
@@ -236,11 +240,12 @@ aur_packages:
 dotfiles:
   # Files
   - .aliases
-  - .aliases.FryTop
+  - .aliases.%{hostname}
   - .env
-  - .env.FryTop
+  - .env.%{hostname}
   - .gitconfig
   - .gnupg
+  - .i3blocks.conf
   - .profile
   - .tmux.conf
   - .vimrc
@@ -256,6 +261,7 @@ dotfiles:
   - bin
   - .i3
   - .spacemacs.d
+  - .i3blocks
 
 git::configs:
   user.name: 'James Fryman'
