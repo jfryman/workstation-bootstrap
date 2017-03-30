@@ -107,9 +107,7 @@ packages:
   - emacs
 
   # Xorg
-  - i3
   - i3blocks
-  - i3-gaps
   - terminology
   - xterm
   - xf86-input-libinput
