@@ -118,6 +118,7 @@ packages:
   - xorg-xwininfo
   - nitrogen
   - compton
+  - arc-gtk-theme
 
   ## gtk
   - gtk3
