@@ -233,6 +233,7 @@ aur_packages:
 
   ## i3
   - rofi-git
+  - i3-gaps-git
 
   ## Gaming
   - lib32-freealut
