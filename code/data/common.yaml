@@ -117,6 +117,7 @@ packages:
   - xf86-input-libinput
   - xorg-xwininfo
   - nitrogen
+  - compton
 
   ## gtk
   - gtk3
