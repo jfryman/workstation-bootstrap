@@ -51,6 +51,8 @@ packages:
   - zip
   - unzip
   - htop
+  - nmap
+  - tree
   - acpi
 
   ## Bluetooth
