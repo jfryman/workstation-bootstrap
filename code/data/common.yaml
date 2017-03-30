@@ -51,6 +51,7 @@ packages:
   - zip
   - unzip
   - htop
+  - acpi
 
 
 
