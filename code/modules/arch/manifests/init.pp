@@ -5,5 +5,5 @@ class arch {
   include ::arch::aur
   include ::arch::networkmanager
   include ::arch::zeroconf
-
+  include ::arch::dkms
 }
