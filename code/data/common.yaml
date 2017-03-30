@@ -262,6 +262,7 @@ dotfiles:
   - .zshenv
   - .zshrc
   - .tool-versions
+  - .Xresources
 
   # Directories
   - bin
