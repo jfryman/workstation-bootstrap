@@ -204,6 +204,7 @@ aur_packages:
   - gohufont
   - proggyfonts
   - bdf-tewi-git
+  - system-san-francisco-font-git
 
   ## QT
   - adwaita-qt4
