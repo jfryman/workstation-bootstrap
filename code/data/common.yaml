@@ -109,7 +109,6 @@ packages:
   - emacs
 
   # Xorg
-  - i3blocks
   - terminology
   - xterm
   - xf86-input-libinput
@@ -235,6 +234,7 @@ aur_packages:
   ## i3
   - rofi-git
   - i3-gaps-git
+  - i3blocks-git
 
   ## Gaming
   - lib32-freealut
