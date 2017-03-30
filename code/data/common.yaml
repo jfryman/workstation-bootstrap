@@ -141,7 +141,6 @@ packages:
 
   ## i3
   - dmenu
-  - i3-wm
 
   ## Security
   - gnupg
