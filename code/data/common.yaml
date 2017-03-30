@@ -53,8 +53,6 @@ packages:
   - htop
   - acpi
 
-
-
   ## Bluetooth
   - bluez
   - bluez-utils
@@ -102,7 +100,6 @@ packages:
   - libmythes
   - mythes-en
 
-
   # CLI
   - tmux
   - screen
@@ -121,6 +118,14 @@ packages:
   - arc-gtk-theme
   - gnome-themes-standard
   - gtk-engine-murrine
+  - thunar
+  - gvfs
+  - thunar-archive-plugin
+  - file-roller
+  - thunar-media-tags-plugin
+  - thunar-volman
+  - tumbler
+  - ffmpegthumbnailer
 
   ## gtk
   - gtk3
