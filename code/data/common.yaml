@@ -119,6 +119,7 @@ packages:
   - nitrogen
   - compton
   - arc-gtk-theme
+  - gtk-engine-murrine
 
   ## gtk
   - gtk3
