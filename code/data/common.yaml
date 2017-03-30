@@ -209,6 +209,7 @@ aur_packages:
   - proggyfonts
   - bdf-tewi-git
   - system-san-francisco-font-git
+  - ttf-font-icons
 
   ## QT
   - adwaita-qt4
