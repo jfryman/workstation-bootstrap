@@ -4,6 +4,8 @@ classes:
 
 packages:
   - hexchat
+  - xf86-video-nouveau
+  - xf86-video-intel
 
 aur_packages:
   # Comms
@@ -15,3 +17,4 @@ aur_packages:
   # MacBook Pro 10,1
   - mbpfan-git
   - xf86-input-mtrack
+  - gpu-switch

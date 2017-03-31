@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+if [ -f $HOME/.i3/config.$(hostname -s) ];
+then
+  if [ -f $HOME/.i3/config.global ];
+  then cat $HOME/.i3/config.global $HOME/.i3/config.$(hostname -s) > $HOME/.i3/config
+  else echo "Missing config.global"
+  fi
+else echo "Missing config.$(hostname -s)"
+fi

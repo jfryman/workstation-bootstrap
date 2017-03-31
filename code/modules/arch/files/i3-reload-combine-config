@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+i3-combine-config
+i3-msg reload
