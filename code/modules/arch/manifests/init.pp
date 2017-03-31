@@ -6,4 +6,5 @@ class arch {
   include ::arch::networkmanager
   include ::arch::zeroconf
   include ::arch::dkms
+  include ::arch::i3
 }
