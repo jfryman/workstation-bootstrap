@@ -231,6 +231,7 @@ aur_packages:
   - jdk
   - visual-studio-code
   - hub-git
+  - apachedirectorystudio
 
   ## i3
   - rofi-git
