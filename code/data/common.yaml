@@ -55,16 +55,10 @@ packages:
   - tree
   - acpi
 
-  ## Bluetooth
-  - bluez
-  - bluez-utils
-  - blueberry
-
   # Multimedia
   - alsa-utils
   - alsa-lib
   - alsa-plugins
-  - pulseaudio-alsa
   - lib32-libpulse
 
   ## Fonts
@@ -233,6 +227,7 @@ aur_packages:
   - jdk
   - visual-studio-code
   - hub-git
+  - vmware-workstation
 
   ## i3
   - rofi-git
@@ -252,6 +247,7 @@ aur_packages:
   
   # Media
   - spotify
+
 
 dotfiles:
   # Files
