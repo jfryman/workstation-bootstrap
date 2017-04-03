@@ -18,3 +18,6 @@ aur_packages:
   - mbpfan-git
   - xf86-input-mtrack
   - gpu-switch
+
+  # Desktop
+  - nextcloud-client

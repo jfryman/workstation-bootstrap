@@ -194,6 +194,9 @@ packages:
 
 
 aur_packages:
+  ## System
+  - kubectl-bin
+
   ## Network
   - networkmanager-dispatcher-openvpn
 
