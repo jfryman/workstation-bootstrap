@@ -196,6 +196,7 @@ packages:
 aur_packages:
   ## System
   - kubectl-bin
+  - kubernetes-helm
 
   ## Network
   - networkmanager-dispatcher-openvpn
