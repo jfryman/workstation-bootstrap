@@ -55,6 +55,7 @@ packages:
   - tree
   - acpi
   - nfs-utils
+  - unrar
 
   ## Bluetooth
   - bluez
