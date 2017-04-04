@@ -95,6 +95,7 @@ packages:
   - hyphen-en
   - libmythes
   - mythes-en
+  - redshift
 
   # CLI
   - tmux
