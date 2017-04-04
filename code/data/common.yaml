@@ -54,6 +54,7 @@ packages:
   - nmap
   - tree
   - acpi
+  - nfs-utils
 
   ## Bluetooth
   - bluez
