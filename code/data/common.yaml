@@ -99,6 +99,7 @@ packages:
   - python-gobject
   - python-xdg
   - librsvg
+  - geoclue2
 
   # CLI
   - tmux
