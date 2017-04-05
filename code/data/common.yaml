@@ -60,6 +60,7 @@ packages:
   # Programming
   - virtualbox
   - virtualbox-host-dkms
+  - net-tools
 
   # Multimedia
   - alsa-utils
