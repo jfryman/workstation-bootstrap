@@ -57,6 +57,10 @@ packages:
   - nfs-utils
   - unrar
 
+  # Programming
+  - virtualbox
+  - virtualbox-host-dkms
+
   # Multimedia
   - alsa-utils
   - alsa-lib
@@ -235,7 +239,6 @@ aur_packages:
   - hub-git
   - apachedirectorystudio
   - vmware-workstation
-  - virtualbox-bin
 
   ## i3
   - rofi-git
