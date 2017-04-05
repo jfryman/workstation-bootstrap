@@ -57,16 +57,10 @@ packages:
   - nfs-utils
   - unrar
 
-  ## Bluetooth
-  - bluez
-  - bluez-utils
-  - blueberry
-
   # Multimedia
   - alsa-utils
   - alsa-lib
   - alsa-plugins
-  - pulseaudio-alsa
   - lib32-libpulse
 
   ## Fonts
@@ -111,7 +105,6 @@ packages:
   - emacs
 
   # Xorg
-  - i3blocks
   - terminology
   - xterm
   - xf86-input-libinput
@@ -129,6 +122,9 @@ packages:
   - thunar-volman
   - tumbler
   - ffmpegthumbnailer
+
+  # Health
+  - workrave
 
   ## gtk
   - gtk3
@@ -238,10 +234,13 @@ aur_packages:
   - visual-studio-code
   - hub-git
   - apachedirectorystudio
+  - vmware-workstation
+  - virtualbox-bin
 
   ## i3
   - rofi-git
   - i3-gaps-git
+  - i3blocks-git
 
   ## Gaming
   - lib32-freealut
@@ -257,6 +256,7 @@ aur_packages:
   # Media
   - spotify
   - pepper-flash
+
 
 dotfiles:
   # Files

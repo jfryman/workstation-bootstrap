@@ -7,4 +7,5 @@ class arch {
   include ::arch::zeroconf
   include ::arch::dkms
   include ::arch::i3
+  include ::arch::bluetooth
 }
