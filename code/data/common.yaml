@@ -236,7 +236,6 @@ aur_packages:
   - jdk
   - visual-studio-code
   - hub-git
-  - vmware-workstation
 
   ## i3
   - rofi-git
