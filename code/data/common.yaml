@@ -126,6 +126,10 @@ packages:
   - tumbler
   - ffmpegthumbnailer
 
+  # Programming
+  - virtualbox
+  - virtualbox-host-modules-arch
+
   # Health
   - workrave
 
