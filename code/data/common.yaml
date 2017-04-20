@@ -101,6 +101,8 @@ packages:
   - python-xdg
   - librsvg
   - geoclue2
+  - remmina
+  - freerdp
 
   # CLI
   - tmux
