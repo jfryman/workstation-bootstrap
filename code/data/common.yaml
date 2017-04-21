@@ -233,6 +233,7 @@ aur_packages:
   # Office
   - libreoffice-extension-languagetool
   - hsqldb2-java
+  - crossover
 
   ## Programming
   - jdk
