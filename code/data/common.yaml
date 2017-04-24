@@ -136,9 +136,6 @@ packages:
   - tumbler
   - ffmpegthumbnailer
 
-  # Programming
-  - virtualbox
-
   # Health
   - workrave
 
@@ -250,11 +247,8 @@ aur_packages:
   - jdk
   - visual-studio-code
   - hub-git
-<<<<<<< HEAD
   - apachedirectorystudio
   - vmware-workstation
-=======
->>>>>>> 42677de3bc30f097a37c333eb700563163be697d
 
   ## i3
   - rofi-git
