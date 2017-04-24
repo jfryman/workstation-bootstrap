@@ -1,4 +1,6 @@
 ---
+packages:
+  - bitlbee
 aur_packages:
   - hipchat
   - bluejeans
