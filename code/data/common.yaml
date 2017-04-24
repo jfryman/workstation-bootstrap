@@ -59,8 +59,6 @@ packages:
   - unrar
 
   # Programming
-  - virtualbox
-  - virtualbox-host-dkms
   - net-tools
 
   # Multimedia
