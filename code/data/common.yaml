@@ -42,6 +42,7 @@ packages:
   - fop
   - unixodbc
   - autoconf
+  - polkit
 
   ## System
   - openssh
@@ -102,6 +103,13 @@ packages:
   - hyphen-en
   - libmythes
   - mythes-en
+  - redshift
+  - python-gobject
+  - python-xdg
+  - librsvg
+  - geoclue2
+  - remmina
+  - freerdp
 
   # CLI
   - tmux
@@ -127,6 +135,9 @@ packages:
   - thunar-volman
   - tumbler
   - ffmpegthumbnailer
+
+  # Programming
+  - virtualbox
 
   # Health
   - workrave
@@ -233,13 +244,17 @@ aur_packages:
   # Office
   - libreoffice-extension-languagetool
   - hsqldb2-java
+  - crossover
 
   ## Programming
   - jdk
   - visual-studio-code
   - hub-git
+<<<<<<< HEAD
   - apachedirectorystudio
   - vmware-workstation
+=======
+>>>>>>> 42677de3bc30f097a37c333eb700563163be697d
 
   ## i3
   - rofi-git
