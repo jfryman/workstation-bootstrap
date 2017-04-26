@@ -57,6 +57,7 @@ packages:
   - acpi
   - nfs-utils
   - unrar
+  - thefuck
 
   # Programming
   - net-tools
