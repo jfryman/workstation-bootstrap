@@ -248,6 +248,7 @@ aur_packages:
   - hub-git
   - apachedirectorystudio
   - vmware-workstation
+  - virtualbox-bin-5.0
 
   ## i3
   - rofi-git
