@@ -61,6 +61,7 @@ packages:
 
   # Programming
   - net-tools
+  - zeal
 
   # Multimedia
   - alsa-utils
