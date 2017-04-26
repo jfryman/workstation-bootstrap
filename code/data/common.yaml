@@ -60,8 +60,6 @@ packages:
   - thefuck
 
   # Programming
-  - virtualbox
-  - virtualbox-host-dkms
   - net-tools
 
   # Multimedia
