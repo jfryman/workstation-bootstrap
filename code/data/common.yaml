@@ -59,7 +59,7 @@ packages:
   - unrar
   - thefuck
   - libgnome-keyring
-  - gnome-screenshot
+  - xfce4-screenshooter
 
   # Programming
   - net-tools
