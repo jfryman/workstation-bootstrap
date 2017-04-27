@@ -58,6 +58,7 @@ packages:
   - nfs-utils
   - unrar
   - thefuck
+  - libgnome-keyring
 
   # Programming
   - net-tools
