@@ -255,7 +255,7 @@ aur_packages:
   - virtualbox-bin-5.0
 
   ## i3
-  - rofi-git
+  - rofi
   - i3-gaps-git
   - i3blocks-git
 
@@ -295,6 +295,7 @@ dotfiles:
   - .zshrc
   - .tool-versions
   - .Xresources
+  - .Xresources.%{hostname}
 
   # Directories
   - bin
