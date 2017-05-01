@@ -21,3 +21,4 @@ aur_packages:
 
   # Desktop
   - nextcloud-client
+  - crashplan-pro
