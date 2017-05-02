@@ -58,7 +58,8 @@ packages:
   - nfs-utils
   - unrar
   - thefuck
-  - libgnome-keyring
+  - libsecret
+  - gnome-keyring
   - xfce4-screenshooter
 
   # Programming
