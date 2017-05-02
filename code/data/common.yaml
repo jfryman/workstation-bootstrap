@@ -215,7 +215,7 @@ aur_packages:
   - networkmanager-dispatcher-openvpn
 
   ## Fonts
-  - emojione-color-font
+  - ttf-emojione-color
   - ttf-ms-fonts
   - ttf-vista-fonts
   - ttf-envy-code-r
