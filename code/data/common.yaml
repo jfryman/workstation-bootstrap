@@ -65,6 +65,7 @@ packages:
   # Programming
   - net-tools
   - zeal
+  - weechat
 
   # Multimedia
   - alsa-utils
