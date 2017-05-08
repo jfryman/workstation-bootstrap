@@ -304,6 +304,7 @@ dotfiles:
   - .i3
   - .spacemacs.d
   - .i3blocks
+  - .weechat
 
 git::configs:
   user.name: 'James Fryman'
