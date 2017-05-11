@@ -254,7 +254,6 @@ aur_packages:
   - visual-studio-code
   - hub-git
   - apachedirectorystudio
-  - vmware-workstation
   - virtualbox-bin-5.0
 
   ## i3
