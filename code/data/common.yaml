@@ -65,8 +65,12 @@ packages:
   # Programming
   - net-tools
   - zeal
+<<<<<<< HEAD
   - go
   - go-tools
+=======
+  - weechat
+>>>>>>> c693bb3a03ec892358c1f76c0d3cd405991ceb04
 
   # Multimedia
   - alsa-utils
@@ -304,6 +308,7 @@ dotfiles:
   - .i3
   - .spacemacs.d
   - .i3blocks
+  - .weechat
 
 git::configs:
   user.name: 'James Fryman'
