@@ -122,6 +122,7 @@ packages:
   - screen
   - vim
   - emacs
+  - isync
 
   # Xorg
   - terminology
