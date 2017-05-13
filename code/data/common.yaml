@@ -298,6 +298,7 @@ dotfiles:
   - .zshenv
   - .zshrc
   - .tool-versions
+  - .muttrc
 
   # Directories
   - bin
@@ -309,6 +310,7 @@ dotfiles:
 dotfiles::host_specific:
   - .Xresources
   - .mbsyncrc
+  - .mailboxes
 
 git::configs:
   user.name: 'James Fryman'
