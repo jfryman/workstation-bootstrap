@@ -298,8 +298,6 @@ dotfiles:
   - .zshenv
   - .zshrc
   - .tool-versions
-  - .Xresources
-  - .Xresources.%{hostname}
 
   # Directories
   - bin
@@ -307,6 +305,10 @@ dotfiles:
   - .spacemacs.d
   - .i3blocks
   - .weechat
+
+dotfiles::host_specific:
+  - .Xresources
+  - .mbsyncrc
 
 git::configs:
   user.name: 'James Fryman'

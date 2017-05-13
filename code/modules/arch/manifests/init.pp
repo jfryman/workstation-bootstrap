@@ -8,4 +8,5 @@ class arch {
   include ::arch::dkms
   include ::arch::i3
   include ::arch::bluetooth
+  include ::arch::mbsync
 }
