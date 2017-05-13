@@ -299,6 +299,7 @@ dotfiles:
   - .zshrc
   - .tool-versions
   - .muttrc
+  - .notmuch-config
 
   # Directories
   - bin
