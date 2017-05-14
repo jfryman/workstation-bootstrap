@@ -70,6 +70,7 @@ packages:
   - weechat
   - msmtp
   - msmtp-mta
+  - s-nail
 
   # Multimedia
   - alsa-utils
