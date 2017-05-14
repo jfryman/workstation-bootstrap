@@ -9,4 +9,5 @@ class arch {
   include ::arch::i3
   include ::arch::bluetooth
   include ::arch::mbsync
+  include ::arch::msmtp
 }

@@ -1,0 +1,11 @@
+[Unit]
+Description=Send Mail from msmtp queue timer
+
+
+[Timer]
+OnCalendar=*-*-* 00/1:00:00
+Persistent=true
+Unit=msmtp-runqueue@%i.service
+
+[Install]
+WantedBy=timers.target
