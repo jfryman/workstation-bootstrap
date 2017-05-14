@@ -3,6 +3,7 @@ class arch::keymap(
   $xkblayout  = 'us',
   $xkbmodel   = 'pc104',
   $xkbvariant = $layout,
+  $font       = "ter-132b",
 ) {
   file { '/etc/vconsole.conf':
     ensure  => file,
