@@ -68,6 +68,8 @@ packages:
   - go
   - go-tools
   - weechat
+  - msmtp
+  - msmtp-mta
 
   # Multimedia
   - alsa-utils
@@ -312,6 +314,8 @@ dotfiles::host_specific:
   - .Xresources
   - .mbsyncrc
   - .mailboxes
+  - .msmtprc
+
 
 git::configs:
   user.name: 'James Fryman'
