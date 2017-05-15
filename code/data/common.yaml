@@ -260,6 +260,8 @@ aur_packages:
   - hub-git
   - apachedirectorystudio
   - virtualbox-bin-5.0
+  - neomutt
+  - notmuch
 
   ## i3
   - rofi
