@@ -262,6 +262,7 @@ aur_packages:
   - virtualbox-bin-5.0
   - neomutt
   - notmuch
+  - tor-browser-en
 
   ## i3
   - rofi
