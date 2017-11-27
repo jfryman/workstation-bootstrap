@@ -1,0 +1,7 @@
+---
+brews:
+  - tmux
+
+casks:
+  - chrome
+  - 1password

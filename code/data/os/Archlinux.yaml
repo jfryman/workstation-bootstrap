@@ -1,0 +1,278 @@
+---
+classes:
+  ## OS
+  - "::arch"
+
+  ## Personal
+  - "::arch::yubikey"
+
+packages:
+  # Arch
+  - automake
+  - bison
+  - fakeroot
+  - file
+  - findutils
+  - flex
+  - gawk
+  - gettext
+  - grep
+  - groff
+  - gzip
+  - libtool
+  - m4
+  - make
+  - pacman
+  - patch
+  - pkg-config
+  - sed
+  - sudo
+  - texinfo
+  - util-linux
+  - which
+  - expac
+  - gcc-multilib
+  - fop
+  - unixodbc
+  - autoconf
+  - polkit
+
+  ## System
+  - openssh
+  - openntpd
+  - zsh
+  - zsh-completions
+  - zip
+  - unzip
+  - htop
+  - nmap
+  - tree
+  - acpi
+  - nfs-utils
+  - unrar
+  - thefuck
+  - libsecret
+  - gnome-keyring
+  - xfce4-screenshooter
+
+  # Programming
+  - net-tools
+  - zeal
+  - go
+  - go-tools
+  - weechat
+  - msmtp
+  - msmtp-mta
+  - s-nail
+
+  # Multimedia
+  - alsa-utils
+  - alsa-lib
+  - alsa-plugins
+  - lib32-libpulse
+
+  ## Fonts
+  - adobe-source-code-pro-fonts
+  - adobe-source-sans-pro-fonts
+  - adobe-source-serif-pro-fonts
+  - ttf-anonymous-pro
+  - ttf-croscore
+  - ttf-dejavu
+  - ttf-fira-mono
+  - ttf-freefont
+  - ttf-hack
+  - ttf-liberation
+  - ttf-roboto
+  - ttf-gentium
+  - ttf-linux-libertine
+  - ttf-ubuntu-font-family
+  - dina-font
+  - artwiz-fonts
+  - profont
+  - tamsyn-font
+  - terminus-font
+  - bdf-unifont
+
+  # Office
+  - gimp
+  - poppler-glib
+  - libreoffice-fresh
+  - libreoffice-extension-texmaths
+  - libreoffice-extension-writer2latex
+  - hunspell
+  - hunspell-en
+  - hyphen
+  - hyphen-en
+  - libmythes
+  - mythes-en
+  - redshift
+  - python-gobject
+  - python-xdg
+  - librsvg
+  - geoclue2
+  - remmina
+  - freerdp
+
+  # CLI
+  - tmux
+  - screen
+  - vim
+  - emacs
+  - isync
+
+  # Xorg
+  - terminology
+  - xterm
+  - xf86-input-libinput
+  - xorg-xwininfo
+  - nitrogen
+  - compton
+  - arc-gtk-theme
+  - gnome-themes-standard
+  - gtk-engine-murrine
+  - thunar
+  - gvfs
+  - thunar-archive-plugin
+  - file-roller
+  - thunar-media-tags-plugin
+  - thunar-volman
+  - tumbler
+  - ffmpegthumbnailer
+
+  # Health
+  - workrave
+
+  ## gtk
+  - gtk3
+  - gtk2
+  - lxappearance
+  - gtk-chtheme
+  - wxgtk
+
+  ## QT
+  - qt5-base
+  - qt4
+  - qt5ct
+  - qt5-multimedia
+
+  ## i3
+  - dmenu
+
+  ## Security
+  - gnupg
+  - pinentry
+  - libu2f-host
+
+  # Gaming
+  - steam
+  - gnu-free-fonts
+  - glu
+  - lib32-glu
+  - lib32-libxmu
+  - lib32-libtheora
+  - lib32-libjpeg6-turbo
+  - lib32-libtiff4
+  - lib32-libpng12
+  - lib32-libcurl-compat
+  - lib32-libcurl-gnutls
+  - lib32-libidn
+  - lib32-openssl
+  - lib32-libcanberra
+  - lib32-flashplugin
+  - libpng12
+  - libtxc_dxtn
+  - lib32-sdl
+  - lib32-sdl_image
+  - lib32-sdl_ttf
+  - lib32-sdl2_mixer
+  - lib32-sdl2
+  - lib32-sdl2_image
+  - lib32-gtk2
+  - lib32-libvorbis
+  - lib32-openal
+  - lib32-nvidia-cg-toolkit
+  - lib32-glew1.10
+  - lib32-librtmp0
+  - lib32-libxft
+  - libxtst
+  - lib32-libxtst
+  - lib32-libcaca
+  - lib32-sqlite
+  - lib32-libxcursor
+  - lib32-libxrandr
+  - lib32-libstdc++5
+  - lib32-libgcrypt15
+  - lib32-libxxf86vm
+  - lib32-libdrm
+
+
+
+aur_packages:
+  ## System
+  - kubectl-bin
+  - kubernetes-helm
+
+  ## Network
+  - networkmanager-dispatcher-openvpn
+
+  ## Fonts
+  - ttf-emojione-color
+  - ttf-ms-fonts
+  - ttf-vista-fonts
+  - ttf-envy-code-r
+  - ttf-fantasque-sans
+  - ttf-inconsolata-g
+  - ttf-monaco
+  - ttf-monofur
+  - ttf-tahoma
+  - gohufont
+  - proggyfonts
+  - bdf-tewi-git
+  - system-san-francisco-font-git
+  - ttf-font-icons
+
+  ## QT
+  - adwaita-qt4
+  - adwaita-qt5
+
+  # Internet
+  - google-chrome
+
+  # Puppet, Inc
+  - bluejeans
+  - hipchat
+
+  # Office
+  - libreoffice-extension-languagetool
+  - hsqldb2-java
+  - crossover
+
+  ## Programming
+  - jdk
+  - visual-studio-code
+  - hub-git
+  - apachedirectorystudio
+  - virtualbox-bin-5.0
+  - neomutt
+  - notmuch
+  - tor-browser-en
+
+  ## i3
+  - rofi
+  - i3-gaps-git
+  - i3blocks-git
+
+  ## Gaming
+  - lib32-freealut
+  - adobe-air-sdk
+  - lib32-libxaw
+  - lib32-jasper
+  - lib32-intel-tbb
+  - libudev0
+  - lib32-sfml
+  - java-commons-codec
+  - lib32-pangox-compat
+  
+  # Media
+  - spotify
+  - pepper-flash
